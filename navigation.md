@@ -2,19 +2,18 @@
 
 
 [Communication](communication.md)
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
-  * [SubPage3](subpage/page3.md)
+  * [10th Grade](communication/10th.md)
+  * [11th Grade](communication/11th.md)
+
   
 [Critical Thinking](critical-thinking.md)
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
-  * [SubPage3](subpage/page3.md)
+  * [10th Grade](critical-thinking/10th.md)
+  * [11th Grade](critical-thinking/11th.md)
 
 [Responsibility](responsibility.md)
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
-  * [SubPage3](subpage/page3.md)
+  * [10th Grade](responsibility/10th.md)
+  * [11th Grade](responsibility/11th.md)
+
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootstrap)
