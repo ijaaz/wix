@@ -1,4 +1,5 @@
-About
+Muhammad Tello
 =====
 
-This is an MDwiki seed project. Edit the files to adopt to your website or wiki style.
+My name is Muhammad Tello. I live at school, inhale coffee, and enjoy good company.
+
