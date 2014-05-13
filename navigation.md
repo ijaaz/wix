@@ -1,16 +1,19 @@
 # Muhammad Tello
 
 
-[Communication](communication.md)
+[Communication]()
+
   * [10th Grade](communication/10th.md)
   * [11th Grade](communication/11th.md)
 
   
-[Critical Thinking](critical-thinking.md)
+[Critical Thinking]()
+
   * [10th Grade](critical-thinking/10th.md)
   * [11th Grade](critical-thinking/11th.md)
 
-[Responsibility](responsibility.md)
+[Responsibility]()
+
   * [10th Grade](responsibility/10th.md)
   * [11th Grade](responsibility/11th.md)
 
