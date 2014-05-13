@@ -1,8 +1,15 @@
 # Muhammad Tello
 
 
-[Page2](page2.md)
-[Page3](page3.md)
+[Communication](communication.md)
+  * [SubPage1](subpage/page1.md)
+  * [SubPage2](subpage/page2.md)
+  * [SubPage3](subpage/page3.md)
+  
+[Critical Thinking](critical-thinking.md)
+  * [SubPage1](subpage/page1.md)
+  * [SubPage2](subpage/page2.md)
+  * [SubPage3](subpage/page3.md)
 
 [Responsibility](responsibility.md)
   * [SubPage1](subpage/page1.md)
