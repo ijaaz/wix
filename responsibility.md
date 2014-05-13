@@ -6,8 +6,8 @@ To me, responsibility is commitment to completing a goal, willingness to self sa
 
 Responsibility is an important skill to learn because you will need it later on in life, no matter what path you take. In a high school, like FlexTech, there is an increased need for responsibility because "with great power(or great freedom) comes great responsibility". 
 
-10th Grade Benchmark: I understand and appreciate my responsibility to a group
-===
+# 10th Grade Benchmark: I understand and appreciate my responsibility to a group
+
 
 To me being responsible to a group means getting thing done even if you don't want to.  If people in a group are not responsible, than the individuals that are will feel cheated.  In a group people take turns at being leaders, followers, and artisans so that people will develop different skills.  These rotations of positions and importance helps develop real-world responsibility, because you will not always be the boss or the follower. 
 
