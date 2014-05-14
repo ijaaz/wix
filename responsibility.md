@@ -54,7 +54,7 @@ If I could go back and change something, I'd tell us to slow down, and I'd make
 my game less obtuse.
 
 In this project, I designed the game; I was unsure if I could do a good job,
-but with the help of Mrs.Smith(a math teacher in Flextech high school), and
+but with the help of Mrs. Smith(a math teacher in Flextech high school), and
 determination, I did a pretty good job. This experience has taught me that with
-determination you can do a passable job even if you are not really good at it.
+determination you can do a passable job, even if you are not really good at it.
 

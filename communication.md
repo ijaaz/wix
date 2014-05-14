@@ -16,7 +16,7 @@ this fast paced world.
 Communication is essential, in relationships of all kinds, otherwise there will
 be times where there *will* be misunderstandings and confusion which leads to
 dire consequences. Communication is important in understanding peoples actions.
-Communication is important to having good relationships .
+Communication is important to having good relationships.
 
 I recently did a group project in biology, we created habitable planets,
 choosing the most earth-like planet, then adding an ecosystem that would be
@@ -32,4 +32,4 @@ our project so that I would be able to work on my project, even if my partner
 was not in. 
 
 In the future when I have a group project I will hopefully make multiple copy
-so that I am less dependent on my partner
+so that I am less dependent on my partner.
