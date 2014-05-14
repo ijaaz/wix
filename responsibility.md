@@ -1,10 +1,8 @@
+Responsibility
+===============
+
 What Is Responsibility?
-===
-
-Benchmark
------------
-
-10th Grade Benchmark: I Understand And Appreciate My Responsibility To A Group.
+-----------------------
 
 Responsibility is a commitment to completing a goal, doing what needs to be
 done(even if your partner is not willing).
@@ -17,8 +15,8 @@ in life, no matter what path you take. In a high school like FlexTech, there
 is an increased need for responsibility because "with great power(or great
 freedom) comes great responsibility". 
 
-10th Grade Benchmark
---------------------
+10th Grade
+-----------
 
 10th Grade Benchmark: I understand and appreciate my responsibility to a group
 

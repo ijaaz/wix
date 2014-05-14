@@ -1,43 +1,51 @@
-# Page 2
+Critical Thinking
+=================
 
-## Section 1
+What Is Critical Thinking?
+---------------------------
 
-![](//placekitten.com/g/450/200)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et massa vel sem mollis tincidunt. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar lacinia magna, eu mollis ipsum iaculis sed. Ut at dui ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet rhoncus neque.
-Vestibulum malesuada blandit quam sed cursus. Proin ullamcorper elit ut magna varius, at hendrerit nulla ornare. Nam ut augue ornare, molestie felis non, fringilla odio. Vivamus vel gravida elit, eu laoreet libero. Etiam id elit non nisl accumsan scelerisque. Nulla fermentum molestie dolor, quis pretium urna fringilla viverra. Donec fringilla leo tincidunt leo hendrerit pellentesque.
-Duis eget sodales augue. Maecenas quis eleifend dolor. Fusce dictum purus at est facilisis, sit amet viverra leo bibendum. Praesent egestas mi id blandit tempus. Nunc sit amet consequat felis, in pharetra elit. Sed at venenatis mi. Aliquam est urna, cursus et fringilla ut, tristique ac tellus.
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
+Critical thinking is the application of scrutiny and reasoning, without bias, to
+your viewpoint of the world.
 
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
+10th Grade
+----------
 
-## Section 2
+10th Grade Benchmark: I can use evidence to establish, support, and defend my
+opinion. 
 
-![](//placekitten.com/g/350/200)
-![](//placekitten.com/g/350/200)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et massa vel sem mollis tincidunt. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar lacinia magna, eu mollis ipsum iaculis sed. Ut at dui ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet rhoncus neque.
+Critical thinking is essential in my use of the internet, because on the
+internet, it is harder to distinguish falsehood from truth because there is so
+many opinionated people in the world and many of them use the internet. Because
+all these opinionated people air these opinions on the web, it is very
+important for me to be able to validate opinions and separate falsehood from
+fact.
 
-Vestibulum malesuada blandit quam sed cursus. Proin ullamcorper elit ut magna varius, at hendrerit nulla ornare. Nam ut augue ornare, molestie felis non, fringilla odio. Vivamus vel gravida elit, eu laoreet libero. Etiam id elit non nisl accumsan scelerisque. Nulla fermentum molestie dolor, quis pretium urna fringilla viverra. Donec fringilla leo tincidunt leo hendrerit pellentesque.
+In my English class, we had an English guided project (you get to choose subjects,
+teachers create a deadline to help), in
+which we created persuasive essays about different current events that
+concerned us. 
 
-- - - -
-Duis eget sodales augue. Maecenas quis eleifend dolor. Fusce dictum purus at est facilisis, sit amet viverra leo bibendum. Praesent egestas mi id blandit tempus. Nunc sit amet consequat felis, in pharetra elit. Sed at venenatis mi. Aliquam est urna, cursus et fringilla ut, tristique ac tellus.
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
-![](//placekitten.com/g/300/180)
+My subject was gay marriage. I chose this topic because at the time of this
+writing it is a controversial subject, with a lot of ramifications to our
+society and government(USA).
 
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
+My paper was arguing - controversially - that the opponents of gay marriage had
+reasons other than intolerance gay people, and that they were important
+reasons to highlight. 
 
-## Section 3
+The largest challenge facing me in this project was gaining information,
+specifically, reliable, and unbiased information. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et massa vel sem mollis tincidunt. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar lacinia magna, eu mollis ipsum iaculis sed. Ut at dui ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet rhoncus neque.
+Most articles on this subject were too opinionated to use as sources,
+fortunately I had great tools at my disposal, including readability (a tool to
+read articles offline and without fluff). This tool was really useful, as I do
+not have internet at home. I also found that I could use it to tag and organize
+a lot of data at once. 
 
-Vestibulum malesuada blandit quam sed cursus. Proin ullamcorper elit ut magna varius, at hendrerit nulla ornare. Nam ut augue ornare, molestie felis non, fringilla odio. Vivamus vel gravida elit, eu laoreet libero. Etiam id elit non nisl accumsan scelerisque. Nulla fermentum molestie dolor, quis pretium urna fringilla viverra. Donec fringilla leo tincidunt leo hendrerit pellentesque.
+The worst part of writing for me was editing my paper, I especially found it
+hard because I was not used to writing in that style. Yet, because of this
+challenge, I have grown to be a better writer.
 
-- - - -
-Duis eget sodales augue. Maecenas quis eleifend dolor. Fusce dictum purus at est facilisis, sit amet viverra leo bibendum. Praesent egestas mi id blandit tempus. Nunc sit amet consequat felis, in pharetra elit. Sed at venenatis mi. Aliquam est urna, cursus et fringilla ut, tristique ac tellus.
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
-
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
-
-![](//placekitten.com/g/350/200)
-![](//placekitten.com/g/350/200)
-![](//placekitten.com/g/350/200)
+Hopefully as time goes on I will be challenged with more writing assignments so
+that my writing will become phenomenal.
 

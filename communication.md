@@ -1,17 +1,14 @@
+Communication
+===============
+
 What Is Communication?
-==========================
-
-
-Benchmark
---------------
-
-10th grade benchmark: I can communicate effectively orally.
+----------------------
 
 Fast, concise, and informative communication is an essential skill to have in
 this fast paced world.
 
 
-10th grade benchmark
+10th Grade 
 --------------------------
 
 10th grade benchmark: I can communicate effectively orally.
