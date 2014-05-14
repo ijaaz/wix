@@ -1,43 +1,38 @@
-# Page 3
+What Is Communication?
+==========================
 
-## Section 1
 
-![](//placekitten.com/g/450/200)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et massa vel sem mollis tincidunt. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar lacinia magna, eu mollis ipsum iaculis sed. Ut at dui ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet rhoncus neque.
-Vestibulum malesuada blandit quam sed cursus. Proin ullamcorper elit ut magna varius, at hendrerit nulla ornare. Nam ut augue ornare, molestie felis non, fringilla odio. Vivamus vel gravida elit, eu laoreet libero. Etiam id elit non nisl accumsan scelerisque. Nulla fermentum molestie dolor, quis pretium urna fringilla viverra. Donec fringilla leo tincidunt leo hendrerit pellentesque.
-Duis eget sodales augue. Maecenas quis eleifend dolor. Fusce dictum purus at est facilisis, sit amet viverra leo bibendum. Praesent egestas mi id blandit tempus. Nunc sit amet consequat felis, in pharetra elit. Sed at venenatis mi. Aliquam est urna, cursus et fringilla ut, tristique ac tellus.
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
+Benchmark
+--------------
 
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
+10th grade benchmark: I can communicate effectively orally.
 
-## Section 2
+Fast, concise, and informative communication is an essential skill to have in
+this fast paced world.
 
-![](//placekitten.com/g/350/200)
-![](//placekitten.com/g/350/200)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et massa vel sem mollis tincidunt. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar lacinia magna, eu mollis ipsum iaculis sed. Ut at dui ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet rhoncus neque.
 
-Vestibulum malesuada blandit quam sed cursus. Proin ullamcorper elit ut magna varius, at hendrerit nulla ornare. Nam ut augue ornare, molestie felis non, fringilla odio. Vivamus vel gravida elit, eu laoreet libero. Etiam id elit non nisl accumsan scelerisque. Nulla fermentum molestie dolor, quis pretium urna fringilla viverra. Donec fringilla leo tincidunt leo hendrerit pellentesque.
+10th grade benchmark
+--------------------------
 
-- - - -
-Duis eget sodales augue. Maecenas quis eleifend dolor. Fusce dictum purus at est facilisis, sit amet viverra leo bibendum. Praesent egestas mi id blandit tempus. Nunc sit amet consequat felis, in pharetra elit. Sed at venenatis mi. Aliquam est urna, cursus et fringilla ut, tristique ac tellus.
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
-![](//placekitten.com/g/300/180)
+10th grade benchmark: I can communicate effectively orally.
 
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
+Communication is essential, in relationships of all kinds, otherwise there will
+be times where there *will* be misunderstandings and confusion which leads to
+dire consequences. Communication is important in understanding peoples actions.
+Communication is important to having good relationships .
 
-## Section 3
+I recently did a group project in biology, we created habitable planets,
+choosing the most earth-like planet, then adding an ecosystem that would be
+suited for that specific planet. We then presented our planet to our teacher and
+explained our climate choices. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et massa vel sem mollis tincidunt. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pulvinar lacinia magna, eu mollis ipsum iaculis sed. Ut at dui ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet rhoncus neque.
+In my biology project I was trying to master a challenging topic. We had many
+obstacles in our way, my partner and teacher had to leave early at times, and
+sometimes my partner was not able to be at class some days. 
 
-Vestibulum malesuada blandit quam sed cursus. Proin ullamcorper elit ut magna varius, at hendrerit nulla ornare. Nam ut augue ornare, molestie felis non, fringilla odio. Vivamus vel gravida elit, eu laoreet libero. Etiam id elit non nisl accumsan scelerisque. Nulla fermentum molestie dolor, quis pretium urna fringilla viverra. Donec fringilla leo tincidunt leo hendrerit pellentesque.
+If I could have done things differently, I'd have created multiple copy's of
+our project so that I would be able to work on my project, even if my partner
+was not in. 
 
-- - - -
-Duis eget sodales augue. Maecenas quis eleifend dolor. Fusce dictum purus at est facilisis, sit amet viverra leo bibendum. Praesent egestas mi id blandit tempus. Nunc sit amet consequat felis, in pharetra elit. Sed at venenatis mi. Aliquam est urna, cursus et fringilla ut, tristique ac tellus.
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
-
-Nullam varius ac ligula et condimentum. Cras commodo et orci in aliquam. Fusce in arcu nec elit tincidunt ultricies a eget nulla. Aliquam ullamcorper placerat mattis. Fusce non interdum risus, in pellentesque libero. Aliquam erat volutpat. Praesent tempus, neque ut malesuada semper, ante lacus bibendum libero, sit amet pulvinar nulla urna in nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse lacinia leo sit amet nunc semper viverra.
-
-![](//placekitten.com/g/350/200)
-![](//placekitten.com/g/350/200)
-![](//placekitten.com/g/350/200)
-
+In the future when I have a group project I will hopefully make multiple copy
+so that I am less dependent on my partner
