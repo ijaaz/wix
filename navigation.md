@@ -19,7 +19,7 @@
 
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](flatly)
+[gimmick:theme (inverse: false)](readable)
 
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
