@@ -33,3 +33,10 @@ was not in.
 
 In the future when I have a group project I will hopefully make multiple copy
 so that I am less dependent on my partner.
+
+11th Grade
+----------
+
+11th Grade Benchmark: I can communicate effectively in writing
+
+----> TO BE CONTINUED

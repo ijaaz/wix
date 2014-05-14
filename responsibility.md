@@ -58,3 +58,11 @@ but with the help of Mrs. Smith(a math teacher in Flextech high school), and
 determination, I did a pretty good job. This experience has taught me that with
 determination you can do a passable job, even if you are not really good at it.
 
+
+11th Grade
+----------
+
+11th Grade Benchmark: I understand and appreciate the importance of taking
+a leadership role for a group
+
+----> TO BE CONTINUED

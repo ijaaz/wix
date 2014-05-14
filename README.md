@@ -1,4 +1,6 @@
 my_wix_page
 ===========
 
-This my wix page
+One of my requirements for graduating high school is that I must have
+a portfolio. Normally people use [wix](www.wix.com), but I am trying to use
+a combination of github and MDWiki.

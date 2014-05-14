@@ -49,3 +49,11 @@ challenge, I have grown to be a better writer.
 Hopefully as time goes on I will be challenged with more writing assignments so
 that my writing will become phenomenal.
 
+
+11th Grade
+----------
+
+11th Grade Benchmark: I can create an argument that considers alternative
+perspectives, provides evidence, and predicts outcomes.
+
+----> TO BE CONTINUED
