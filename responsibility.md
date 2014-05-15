@@ -65,4 +65,21 @@ determination you can do a passable job, even if you are not really good at it.
 11th Grade Benchmark: I understand and appreciate the importance of taking
 a leadership role for a group
 
+Taking a leader shipr role is good needed, if there was no leader, nothing
+would ever be done.
+
+Leaders help inspaire community, they help setting a tone they are the glue
+holding communities together, withough them there woudl be no community.
+A community starts with peiople and a leader, all with a common purplose, or
+interest. 
+
+Leaders only com around when they are needed, because need is most powerful of
+nessiecityis, and because leadership is not totally inborn, pbur , instead, is
+something you gain.
+
+Anyone can be la leader, the qualities for a leader, is not inborn, but instead
+is learnedA. Charisma, a needed leadership quality, is something that can be
+inborn, but also can be gainedr , actually, many leaders are somewhat
+charismatic, but than gain an extra dose of charisma when they are leaders.
+
 ----> TO BE CONTINUED
