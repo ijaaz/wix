@@ -39,4 +39,7 @@ so that I am less dependent on my partner.
 
 11th Grade Benchmark: I can communicate effectively in writing
 
+Writing effectively is using descriptive words, with strategic word placement.
+
+
 ----> TO BE CONTINUED
