@@ -13,6 +13,6 @@
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
 
-[gimmick:Disqus](mtello)
+[gimmick:Disqus](muhammadtello)
 
 <!-- show a fork me on github ribbon -->
