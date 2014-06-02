@@ -41,5 +41,8 @@ so that I am less dependent on my partner.
 
 Writing effectively is using descriptive words, with strategic word placement.
 
+Descriptive, intuitive, and stratigic writing is an esential skill to have in
+a world.
+
 
 ----> TO BE CONTINUED
