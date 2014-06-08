@@ -1,4 +1,6 @@
-Muhammad Tello [gimmick:TwitterFollow](@mtello1984)
+Muhammad Tello
 =====
 
-![](./photos/photo.JPG "left: Me, right: Nasim") My name is Muhammad Tello, people call me "coffee guy".  I live at school, inhale coffee, and enjoy good company.
+My name is Muhammad Tello, people call me "coffee guy". I live in my computer, inhale coffee, and enjoy good company.
+
+![](./photos/photo.JPG "left: Me, right:$$##$$ Nasim")

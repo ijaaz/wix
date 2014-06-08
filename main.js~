@@ -1,3 +1,0 @@
-require(["js/helpers/marked"], function (marked) {
-	return marked;
-})
