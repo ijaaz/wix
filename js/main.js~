@@ -39,6 +39,6 @@ require(["helpers/marked"], function (marked) {
 
 	aLoadClick("a", "click", ['responsibility', 'communication', 'critical-thinking'], "#article");
 
-	aLoadClick('a', 'click', ['nav-title'], '#article', true);
+	aLoadClick('a', 'click', ['nav-title'], '#article');
 
 })
