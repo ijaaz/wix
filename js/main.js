@@ -1,44 +1,24 @@
-require(["helpers/marked"], function (marked) {
+require(["helpers/marked", "helpers/insertData", "helpers/clickHandler", "helpers/loadFile"], function (marked, htmlText, click, file) { 
+	click = click.click;
 
-	window.marked = marked;
 
-	function htmlText (file, element) {
-		var $main = $.get(file, function (data) {
-				insert(element, marked(data));
-		})
-		return $main
+	function success (xhr) {
+		htmlText.insert(xhr.responseText, "#article", "html", marked)
 	}
 
-	function insert(element, text) {
-		// type can either be html or text
-		$(element)
-			.html(text);
-	}
-
-	function dataLoad (from, attribute, element, manualFolder) {
-		if(!manualFolder) {
-			htmlText(attribute + "/" +  $(from).data(attribute) + ".md", element)
-		}	else {
-			htmlText($(from).data(attribute), element)
+	click("click", "a", ["data-responsibility", 'communication'], function (e) {
+		var i;
+		e = e.target;
+		console.log(e);
+		for (i = 0; i < e.attributes.length; ++i) {
+			file.load((e.attributes[i].name.split("data-")[1] + "/" + e.attributes[i].value + ".md"), success);
 		}
-	}
+	});
 
-	htmlText("index.md", "#article");
+//	getFile.htmlText("index.md", "#article");
 
-	function aLoadClick (element, click, list, outputElement, folderOpt) {
-		$(element).on(click, function () {
+//	getFile.aLoadClick("a", "click", ['responsibility', 'communication', 'critical-thinking'], "#article");
 
-			for(var i = 0; i < list.length; ++i) {
-				if ( $(this).data(list[i]) ) {
-					dataLoad(this, list[i], outputElement, folderOpt);
-
-				}
-			}
-		});
-	}
-
-	aLoadClick("a", "click", ['responsibility', 'communication', 'critical-thinking'], "#article");
-
-	aLoadClick('a', 'click', ['nav-title'], '#article', true);
+//	getFile.aLoadClick('a', 'click', ['nav-title'], '#article', true);
 
 })

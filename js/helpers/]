@@ -1,0 +1,25 @@
+define(["helpers/elementHandler"], function (el) {
+	var clickHandler = {};
+
+	clickHandler.click = function (click, element, names, fn) {
+		var element = el.elementHandler(element);
+
+		function click (e) {
+			for (var i = 0; i < e.target.attributes.length; i++) {
+				names.forEach(function (name) {
+					if (e.target.attributes[i].name == name) {
+						fn(e.target.attributes);
+					}
+				})
+			}
+		}
+
+		if(!element.id) {
+			for (var i = 0; i < element.domElement.length; i++) {
+				element.domElement[i]["on" + click]= click;
+			}
+		}
+	
+	};
+	 return clickHandler;
+}) 

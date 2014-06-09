@@ -1,23 +1,21 @@
-11th Grade
-----------
-
+Responsibility
+-------------------
 *11th Grade Benchmark: I understand and appreciate the importance of taking a leadership role for a group*
 
-Leaders are a needed ingredient for life, if there was no leader, nothing would ever be done.
+Leadership is the focal point of human effort. Communities without leaders are apt to disintegrate into chaos.
 
-Leaders help inspire community, they help set a tone, they are the glue holding communities together, without them, there would be no community.
+Everyone has a different view on the world. This leads to conflicting views, and eventually conflict. Good leaders create compromise, peace (as so far as possible), and focus.
 
-A community starts with people and a leader, all with common purpose, or
-interest. 
+Good leaders are not always made for leadership, but instead are called on to be leaders. 
 
-Leaders only come around when they are needed, because need is the most
-powerful of necessities, and because leadership is not totally inborn, but
-instead, is something you gain.
+## My Experience
 
-Anyone can be a leader, as the qualities of leader is not inborn, but instead
-is learned.
+I recently had the honer of creating a fictional business plan with my friend Nicky.
 
-Charisma, a needed leadership quality, is something that can be inborn, but
-also can be gained, actually, many leaders are somewhat charismatic, but gain
-an extra dose of charisma when they become leaders.
+This business plan was for my Economics class with Mrs. Polaczyk. Our fictional business' product was a 3-D Printer for the masses.
 
+We created a presention and a paper.  This [paper](1) detailed our business goals and strategies. We created our presentation to present these ideas to a select group of teachers and students.
+
+We started out doing well, till Nicky started to feel unwell. Due to this, I found out that I had to take a larger leadership role.
+
+[1]: http://google.com
