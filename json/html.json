@@ -1,0 +1,121 @@
+{
+  "nav.navbar.navbar-default[role=navigation]": {
+    ".container-fluid": {
+      ".navbar-header": {
+        "button.navbar-toggle[type=button data-toggle=collapse data-target=#bs-example-navbar-collapse-1]": [
+          {
+            "span.sr-only": "Toggle navigation"
+          },
+          "span.icon-bar",
+          "span.icon-bar",
+          "span.icon-bar"
+        ],
+        "a.navbar-brand.icon-[href=# data-nav-title=index.md": "My Wix Page "
+      },
+      ".collapse.navbar-collapse#bs-example-navbar-collapse-1": {
+        "ul.nav.navbar-nav": [
+          {
+            "li.dropdown": {
+              "a.dropdown-toggle[href=# data-toggle=dropdown]": {
+                "_": "Responsibility",
+                "b.caret": ""
+              },
+              "ul#responsibility.dropdown-menu": [
+                {
+                  "li": {
+                    "a[href=# data-responsibility=intro]": "Introduction"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-responsibility=\"10th grade\"]": "10th Grade"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-responsibility=\"11th grade\"]": "11th Grade"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "li.dropdown": {
+              "a.dropdown-toggle[href=# data-toggle=dropdown]": {
+                "_": "Communication",
+                "b.caret": ""
+              },
+              "ul#communication.dropdown-menu": [
+                {
+                  "li": {
+                    "a[href=# data-communication=intro]": "Introduction"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-communication=\"10th grade\"]": "10th Grade"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-communication=\"11th grade\"]": "11th Grade"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "li.dropdown": {
+              "a.dropdown-toggle[href=# data-toggle=dropdown]": {
+                "_": "Critical Thinking",
+                "b.caret": ""
+              },
+              "ul#critical-thinking.dropdown-menu": [
+                {
+                  "li": {
+                    "a[href=# data-critical-thinking=intro]": "Introduction"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-critical-thinking=\"10th grade\"]": "10th Grade"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-critical-thinking=\"11th grade\"]": "11th Grade"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "li.dropdown": {
+              "a.dropdown-toggle[href=# data-toggle=dropdown]": {
+                "_": "More About Me",
+                "b.caret": ""
+              },
+              "ul#critical-thinking.dropdown-menu": [
+                {
+                  "li": {
+                    "a[href=# data-more-about-me=intro]": "Introduction"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-more-about-me=\"10th grade\"]": "10th Grade"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-more-about-me=\"11th grade\"]": "11th Grade"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

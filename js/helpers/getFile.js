@@ -1,7 +1,7 @@
 define(function (marked) {
 
 	var marked = require("helpers/marked");
-	var getFile = {};
+	window.getFile = {};
 
 	getFile.htmlText = function (file, element) {
 		var $main = $.get(file, function (data) {
@@ -17,10 +17,11 @@ define(function (marked) {
 	};
 
 	getFile.dataLoad = function (from, attribute, element, manualFolder) {
+		var attr = $(from).data(attribute);
 		if(!manualFolder) {
-			getFile.htmlText(attribute + "/" +  $(from).data(attribute) + ".md", element)
+			this.htmlText(attribute + "/" + attr + ".md", element)
 		}	else {
-			getFile.htmlText($(from).data(attribute), element)
+			this.htmlText($(from).data(attribute), element)
 		}
 	};
 

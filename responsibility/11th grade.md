@@ -18,4 +18,8 @@ We created a presention and a paper.  This [paper](1) detailed our business goal
 
 We started out doing well, till Nicky started to feel unwell. Due to this, I found out that I had to take a larger leadership role.
 
+My leadership experience included setting deadlines, collaborating, and formatting among others.
+
+If I could have done anything better, I would have set better deadlines. I was not able to totally finish making my presentation, and I was not able to present with my friend as I didn't look for her on time.
+
 [1]: http://google.com
