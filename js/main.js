@@ -21,13 +21,15 @@ require(["helpers/marked", "helpers/getFile", "coffee-script"], function (marked
 		api.morph('html').add(xhr).compile(function (err, html) {
 			window.marked = marked;
 			$("body").prepend(html);
-			getFile.aLoadClick("a", "click", ['responsibility', 'communication', 'critical-thinking'], "#article");
-			getFile.aLoadClick('a', 'click', ['nav-title'], '#article', true);
+			getFile.aLoadClick("a", "click", ['responsibility', 'communication', 'critical-thinking'],  "#article", {});
+			getFile.aLoadClick('a', 'click', ['nav-title'], '#article', {}, true);
+			$.get("json/css.json", function (xhr) {api.add(xhr).compile(function (err, css) { $("head").append("<style>" + css + "</style>") }) });
 		});
 	});
 
-	getFile.htmlText("index.md", "#article");
-
-
+	function fn (x) {
+		console.dir(x);
+	};
+	getFile.htmlText("index.md", "#article", {});
 
 })

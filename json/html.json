@@ -10,7 +10,7 @@
           "span.icon-bar",
           "span.icon-bar"
         ],
-        "a.navbar-brand.icon-[href=# data-nav-title=index.md": "My Wix Page "
+        "a.navbar-brand.icon-[href=# data-nav-title=index.md": "My Wix Page"
       },
       ".collapse.navbar-collapse#bs-example-navbar-collapse-1": {
         "ul.nav.navbar-nav": [
@@ -92,23 +92,83 @@
           {
             "li.dropdown": {
               "a.dropdown-toggle[href=# data-toggle=dropdown]": {
-                "_": "More About Me",
+                "_": "Themes",
                 "b.caret": ""
               },
-              "ul#critical-thinking.dropdown-menu": [
+              "ul.dropdown-menu": [
                 {
                   "li": {
-                    "a[href=# data-more-about-me=intro]": "Introduction"
+                    "a[href=# data-Themes=amelia.min.css]": "amelia"
                   }
                 },
                 {
                   "li": {
-                    "a[href=# data-more-about-me=\"10th grade\"]": "10th Grade"
+                    "a[href=# data-Themes=cerulean.min.js]": "cerulean"
                   }
                 },
                 {
                   "li": {
-                    "a[href=# data-more-about-me=\"11th grade\"]": "11th Grade"
+                    "a[href=# data-Themes=cosmo.min.js]": "cosmo"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=cyborg.min.css]": "cyborg"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=darkly.min.css]": "darkly"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=flatly.min.css]": "flatly"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=journal.min.css]": "journal"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=lumen.min.css]": "lumen"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=readable.min.css]": "readable"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=simplex.min.css]": "simplex"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=slate.min.css]": "slate"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=spacelab.min.css]": "spacelab"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=superhero.min.css]": "superhero"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=united.min.css]": "united"
+                  }
+                },
+                {
+                  "li": {
+                    "a[href=# data-Themes=yeti.min.css]": "yeti"
                   }
                 }
               ]
