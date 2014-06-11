@@ -22,7 +22,7 @@ require(["helpers/marked", "helpers/getFile", "coffee-script"], function (marked
 			window.marked = marked;
 			$("body").prepend(html);
 			getFile.aLoadClick("a", "click", ['responsibility', 'communication', 'critical-thinking'],  "#article", {});
-			getFile.aLoadClick('a', 'click', ['nav-title'], '#article', {}, true);
+			getFile.aLoadClick('a', 'click', ['nav-title'], '#article', {}, false, true);
 			$.get("json/css.json", function (xhr) {api.add(xhr).compile(function (err, css) { $("head").append("<style>" + css + "</style>") }) });
 		});
 	});

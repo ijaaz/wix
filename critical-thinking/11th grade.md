@@ -25,4 +25,6 @@ Understanding this viewpoint is essential to creating a workable plan to combat 
 
 Everyone needs to understand and combat global warming, otherwise we are lost.
 
-Looking at this project from a distance,  
+Looking at this project from a distance, i can see that  needed to have a better grasp on the science of global warming.
+
+If I could have redone this project, I'd have started my work earlier.
